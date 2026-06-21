@@ -1,0 +1,38 @@
+.out{
+   border: solid 2px black;
+   background-color: white;
+   height: 210px;
+   width: 210px;
+   margin: 2px;
+}
+.face{
+   border: solid 2px white;
+   background-color: yellow;
+   height: 200px;
+   width: 200px;
+   border-radius: 50%;
+   margin: 2px;
+}
+.eyes{
+   border: solid 2px black;
+   background-color: black;
+   height: 20px;
+   width: 20px;
+   border-radius: 50%;
+   display: inline-block;
+   position: relative;
+   margin-left: 50px;
+   margin-top: 50px;
+}
+.mouth{
+   border: solid 2px rgb(188, 34, 34);
+   border-left: 20px;
+   background-color: rgb(188, 34, 34);
+   height: 20px;
+   width: 65px;
+   border-radius: 0 0 50px 50px;
+   display: inline-block;
+   position: relative;
+   margin-left: 70px;
+   margin-top: 50px;
+}
