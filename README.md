@@ -23,8 +23,9 @@ Project Structure
 * smiling.html – Contains the structure of the emoji.
 * style.css – Contains all styling and design elements.
 
-Screenshot:
-Refer to smile.png
+Preview
+
+![Smiling Emoji](smile.png)
 
 Learning Outcomes
 
